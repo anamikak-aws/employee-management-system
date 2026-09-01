@@ -1,0 +1,6 @@
+db.php
+vendor/
+*.pem
+.env
+composer.phar
+composer-setup.php
