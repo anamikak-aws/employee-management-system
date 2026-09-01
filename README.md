@@ -2,4 +2,4 @@
 
 ### Dashboard
 
-![Employee Management System Dashboard](screenshots/dashboard.png)
+![Employee Management System Dashboard](dashbord.png)
